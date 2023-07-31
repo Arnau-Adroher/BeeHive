@@ -24,7 +24,7 @@ To run the BeeHive application, ensure you have the following installed on your 
    GRANT ALL PRIVILEGES ON *.* TO 'mysql'@'localhost';
    ```
 
-2. Download the `beehive.war` file and import it into the Eclipse IDE.
+2. Download the `BeeHive.war` file and import it into the Eclipse IDE.
 3. Run `ManagerAdmin.java` on the Tomcat Servlet.
 
 ## Functionalities
