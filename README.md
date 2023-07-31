@@ -24,8 +24,8 @@ To run the BeeHive application, ensure you have the following installed on your 
    GRANT ALL PRIVILEGES ON *.* TO 'mysql'@'localhost';
    ```
 
-2. Download the `BeeHive.war` file and import it into the Eclipse IDE.
-3. Run `ManagerAdmin.java` on the Tomcat Servlet.
+2. Download the `BeeHive.war` file and import as WAR file it into the Eclipse IDE.
+3. Run `BeeHive/src/main/java/controllers/MainController.java` on the Tomcat Servlet.
 
 ## Functionalities
 The BeeHive social network provides the following features:
